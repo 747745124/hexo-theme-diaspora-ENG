@@ -49,8 +49,8 @@ hitokoto: true
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
     facebook: /
-    twitter: 747745124
-    github: 747745124.github.io
+    twitter: 
+    github: 
     wechat: /img/logo.png
     email: mailto:xxxx@gmail.com
   
