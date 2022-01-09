@@ -1,5 +1,6 @@
-# Hexo-theme-diaspora
+# Hexo-theme-diaspora - ENG
 
+This is the English Version of the theme diaspora, using Valine for comment system.
 
 **[在线预览 | PREVIEW ](http://fech.in)**
 
